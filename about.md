@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Essential Distraction is the brain child of Carlton White, a computing professional (barely) with a couple of decades experience in assembling bytes to perform computing tasks.  This site is a foray into developing an onlilne presence, a presence that will hopefully take many forms, this being the first.
+
+Feel free to use the social network to say hi.  Thanks to Jekyll, the usual links are in the usual places. 
 
 You can find the source code for the Jekyll new theme at:
 {% include icon-github.html username="jglovier" %} /

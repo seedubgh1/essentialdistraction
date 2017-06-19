@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Essential Distraction!"
 date:   2017-06-18 10:06:41 -0700
 categories: jekyll update
 ---
