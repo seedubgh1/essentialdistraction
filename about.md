@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Essential Distraction is the brain child of Carlton White, a computing professional (barely) with a couple of decades experience in assembling bytes to perform computing tasks.  This site is a foray into developing an onlilne presence, a presence that will hopefully take many forms, this being the first.
+Essential Distraction is the brain child of Carlton White, a computing professional (barely) with a couple of decades experience in assembling bytes of data to perform computing tasks.  This site is a foray into developing an onlilne presence, a presence that will hopefully take many forms, this being the first.
 
 Feel free to use the social network to say hi.  Thanks to Jekyll, the usual links are in the usual places. 
 
