@@ -3,14 +3,11 @@ title: Essential Distraction
 email: carltonsaddress@hotmail.com
 description: ""
 customtag: "The necessary evils:"
-baseurl: "/"
-url: "http://essentialdistraction.com" # the base hostname & protocol for your site
+baseurl: "/essentialdistraction"
+url: "http://seedubgh1.github.io" # the base hostname & protocol for your site
 twitter_username: 63seedub 
 github_username: seedubgh1 
-# theme: jekyll-theme-hacker
 
 # Build settings
 markdown: kramdown
 
-
-theme: jekyll-theme-cayman
