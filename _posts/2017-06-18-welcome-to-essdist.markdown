@@ -12,4 +12,4 @@ There are lots of ideas in the works so check back for the lastest developments!
 
 Did you like Movie Geek?  What did you like about it?  What would make it better? Don't be shy, but don't be cruel.  We are always looking for a fresh perspective on voice driven experiences.
 
-Thanks for stopping by. We're excited to get to work on building new and exciting ways to the unleash the power of your voice!
+Thanks for stopping by. We're looking forward to creating new and exciting ways to the unleash the power of your voice!
